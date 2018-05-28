@@ -20,14 +20,17 @@ body {
 .small-title-i {
     font-style: italic;
     font-size: 20px;
+    font-weight: bold;
 }
 
 .small-title {
     font-size: 20px;
+    font-weight: bold;
 }
 
 .smaller-title {
     font-size: 17px;
+    font-weight: bold;
 }
 
 .text-quote {
